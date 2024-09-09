@@ -1,0 +1,5 @@
+server:
+  port: 9527
+spring:
+  application:
+    name: main-srv-9527
